@@ -1,18 +1,11 @@
 # Collect the Gems
 
-Clicker game by 
+Clicker game by Arterlative Games 
 
 **How to Play:**
 
 * **Gem Collection:** Right-click on gems to collect them.
 * **Level Completion:** Collect all gems on a level to advance.
-
-**Features:**
-
-* Engaging Gameplay
-* Colorful Graphics
-* Challenging Levels
-* Addictive Gameplay
 
 **Installation:**
 1. **Download:** Download the game executable or source code.
@@ -26,7 +19,3 @@ We welcome contributions! Fork the repository, make changes, and submit a pull r
 This project is licensed under the MIT License.
 
 ![Screenshot of a simple game interface with a score counter, timer, and a small player character on a dark background.](https://github.com/user-attachments/assets/001f97a9-a472-4a8a-a904-001621433c8e)
-
-
-
-**Let's collect some gems!**
